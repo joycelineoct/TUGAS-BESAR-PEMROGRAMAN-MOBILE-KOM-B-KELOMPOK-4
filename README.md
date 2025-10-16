@@ -10,7 +10,7 @@ Cuanly adalah aplikasi manajemen keuangan pribadi yang membantu pengguna mencata
 1. Ester P. Butar-Butar (231402014)
 2. Grace Kristiani Siregar (231402035)
 3. Joyceline Octavia (231402041)
-4. Lia Damayani Saragih (231402044)
+4. Lia Damayana Saragih (231402044)
 5. Valencia Browlim (231402077)
 6. Amanda Uli Lumbantoruan (231402093)
 
